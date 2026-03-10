@@ -95,3 +95,4 @@ class VisionService:
 # Singleton
 
 vision_service = VisionService()
+
